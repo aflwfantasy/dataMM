@@ -8,3 +8,4 @@ this will confirm the details
 
 to clone do this reference : https://happygitwithr.com/push-pull-github.html
 $ git clone https://github.com/aflwfantasy/MMdata.git
+ adding new line from computer 
