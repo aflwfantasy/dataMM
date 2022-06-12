@@ -1,13 +1,5 @@
 # Instructions
 
-in git do this : 
-$ git config --global user.name "aflwfantasy"
-$ git config --global user.email "info@aflwfantasy.com.au"
-$  git config --global --list
-this will confirm the details
+Directory for upload to MM website
 
-to clone do this reference : https://happygitwithr.com/push-pull-github.html
-$ git clone https://github.com/aflwfantasy/MMdata.git
-adding new line from RStudio
- adding new line from computer 
 
